@@ -50,7 +50,7 @@ Prosperity-Prognosticator/
 
 - Accuracy: 95%
 - F1 Score: 0.95
-- ROC-AUC: 0.92
+- ROC-AUC: 0.94
 - Precision-Recall AUC: 0.97
 
 ## Features
